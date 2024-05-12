@@ -2,6 +2,7 @@
 
 ## Overview:
 This project analyzes Seattle Airbnb listings using the Airbnb Listings 2016 dataset from Kaggle. The dataset provides comprehensive information about Airbnb listings in Seattle, including listing price, location, number of bedrooms, and other relevant attributes.
+Explore further insights and visualizations using the interactive dashboard [here](https://public.tableau.com/app/profile/pavneet.kaur4789/viz/AirBnb_17113769119810/Dashboard1).
 
 ## Key Insights:
 - **Highest Average Price in Zipcode 98134**: Zipcode 98134 stands out with the highest average listing price among Seattle Airbnb listings.
